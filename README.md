@@ -1,2 +1,2 @@
 # blockchain
-Implementation of a blockchain system.
+An implementation of a single blockchain system.
