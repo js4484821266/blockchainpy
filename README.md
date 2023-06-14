@@ -9,4 +9,5 @@ the header consists of these parts:
 - Timestamp
 - Number of bits
 - Nonce
+
 (...)
